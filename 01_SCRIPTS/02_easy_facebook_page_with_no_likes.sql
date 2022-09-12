@@ -1,3 +1,5 @@
+-- facebook page with no likes --
+
 SELECT
     p.page_id
 FROM

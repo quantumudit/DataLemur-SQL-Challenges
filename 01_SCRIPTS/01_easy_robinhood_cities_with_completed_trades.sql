@@ -1,3 +1,5 @@
+-- clients with completed trades --
+
 SELECT
     u.city,
     COUNT(t.order_id) AS total_orders

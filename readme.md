@@ -69,6 +69,10 @@ In the below table, the columns indicate the following attributes related to the
 |:------:|------------|:---------:|
 | 1 | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](01_SCRIPTS/01_easy_robinhood_cities_with_completed_trades.sql)
 | 2 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](01_SCRIPTS/02_easy_facebook_page_with_no_likes.sql)
+| 3 | [Laptop vs Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](01_SCRIPTS/03_easy_nyt_laptop_vs_mobile_viewership.sql)
+| 4 | [Purchasing Activity by Product Type](https://datalemur.com/questions/sql-purchasing-activity) | [Solution](01_SCRIPTS/04_easy_amazon_purchasing_activity_by_product_type.sql)
+| 5 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution](01_SCRIPTS/05_easy_microsoft_teams_power_users.sql)
+| 6 | [Highest Number of Products](https://datalemur.com/questions/sql-highest-products) | [Solution](01_SCRIPTS/06_easy_ebay_highest_number_of_products.sql)
 
 #### Difficulty Level : Medium
 

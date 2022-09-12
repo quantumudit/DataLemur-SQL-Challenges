@@ -73,6 +73,12 @@ In the below table, the columns indicate the following attributes related to the
 | 4 | [Purchasing Activity by Product Type](https://datalemur.com/questions/sql-purchasing-activity) | [Solution](01_SCRIPTS/04_easy_amazon_purchasing_activity_by_product_type.sql)
 | 5 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution](01_SCRIPTS/05_easy_microsoft_teams_power_users.sql)
 | 6 | [Highest Number of Products](https://datalemur.com/questions/sql-highest-products) | [Solution](01_SCRIPTS/06_easy_ebay_highest_number_of_products.sql)
+| 7 | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](01_SCRIPTS/07_easy_twitter_histogram_of_tweets.sql)
+| 8 | [Spare Server Capacity](https://datalemur.com/questions/sql-spare-server-capacity) | [Solution](01_SCRIPTS/08_easy_microsoft_spare_server_capacity.sql)
+| 9 | [Repeat Purchases on Multiple Days](https://datalemur.com/questions/sql-repeat-purchases) | [Solution](01_SCRIPTS/09_easy_stitchfix_repeat_purchases_on_multiple_days.sql)
+| 10 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](01_SCRIPTS/10_easy_linkedin_duplicate_job_listings.sql)
+
+
 
 #### Difficulty Level : Medium
 

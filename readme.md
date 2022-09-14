@@ -77,8 +77,11 @@ In the below table, the columns indicate the following attributes related to the
 | 8 | [Spare Server Capacity](https://datalemur.com/questions/sql-spare-server-capacity) | [Solution](01_SCRIPTS/08_easy_microsoft_spare_server_capacity.sql)
 | 9 | [Repeat Purchases on Multiple Days](https://datalemur.com/questions/sql-repeat-purchases) | [Solution](01_SCRIPTS/09_easy_stitchfix_repeat_purchases_on_multiple_days.sql)
 | 10 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](01_SCRIPTS/10_easy_linkedin_duplicate_job_listings.sql)
-
-
+| 11 | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](01_SCRIPTS/11_easy_facebook_average_post_hiatus_part_1.sql)
+| 12 | [App Clickthrough Rate (CTR)](https://datalemur.com/questions/sql-app-ctr) | [Solution](01_SCRIPTS/12_easy_facebook_app_clickthrough_rate_ctr_.sql)
+| 13 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](01_SCRIPTS/13_easy_uber_users_third_transaction.sql)
+| 14 | [LinkedIn Power Creators (Part 1)](https://datalemur.com/questions/linkedin-power-creators) | [Solution](01_SCRIPTS/14_easy_linkedin_linkedin_power_creators_part_1_.sql)
+| 15 | [Photoshop Revenue Analysis](https://datalemur.com/questions/photoshop-revenue-analysis) | [Solution](01_SCRIPTS/15_easy_adobe_photoshop_revenue_analysis.sql)
 
 #### Difficulty Level : Medium
 

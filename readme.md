@@ -87,11 +87,17 @@ In the below table, the columns indicate the following attributes related to the
 | 18 | [Subject Matter Experts](https://datalemur.com/questions/subject-matter-experts) | [Solution](01_SCRIPTS/18_easy_accenture_subject_matter_experts.sql)
 | 19 | [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution](01_SCRIPTS/19_easy_paypal_final_account_balance.sql)
 | 20 | [Compensation Outliers](https://datalemur.com/questions/compensation-outliers) | [Solution](01_SCRIPTS/20_easy_accenture_compensation_outliers.sql)
+| 21 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](01_SCRIPTS/21_easy_amazon_average_review_ratings.sql)
+| 22 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](01_SCRIPTS/22_easy_tesla_unfinished_parts.sql)
+| 23 | [Unique Money Transfer Relationships](https://datalemur.com/questions/money-transfer-relationships) | [Solution](01_SCRIPTS/23_easy_paypal_unique_money_transfer_relationships.sql)
+| 24 | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas) | [Solution](01_SCRIPTS/24_easy_google_ad_campaign_roas.sql)
 
 #### Difficulty Level : Medium
 
-
-
+| ID | Challenge | Solution Script |
+|:------:|------------|:---------:|
+| 1 | []() | [Solution](01_SCRIPTS)
+| 2 | []() | [Solution](01_SCRIPTS)
 #### Difficulty Level : Difficult
 
 

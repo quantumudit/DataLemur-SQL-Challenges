@@ -91,17 +91,22 @@ In the below table, the columns indicate the following attributes related to the
 | 22 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](01_SCRIPTS/22_easy_tesla_unfinished_parts.sql)
 | 23 | [Unique Money Transfer Relationships](https://datalemur.com/questions/money-transfer-relationships) | [Solution](01_SCRIPTS/23_easy_paypal_unique_money_transfer_relationships.sql)
 | 24 | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas) | [Solution](01_SCRIPTS/24_easy_google_ad_campaign_roas.sql)
+| 25 | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](01_SCRIPTS/25_easy_tiktok_second_day_confirmation.sql)
 
 #### Difficulty Level : Medium
 
 | ID | Challenge | Solution Script |
 |:------:|------------|:---------:|
-| 1 | []() | [Solution](01_SCRIPTS)
-| 2 | []() | [Solution](01_SCRIPTS)
+| 1 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](01_SCRIPTS/26_medium_snapchat_sending_vs_opening_snaps.sql)
+| 2 | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | [Solution](01_SCRIPTS/27_medium_twitter_tweets_rolling_averages.sql)
+| 3 | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](01_SCRIPTS/28_medium_google_odd_and_even_measurements.sql)
+| 4 | [Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs) | [Solution](01_SCRIPTS/29_medium_walmart_frequently_purchased_pairs.sql)
+| 5 | []() | [Solution](01_SCRIPTS)
 #### Difficulty Level : Difficult
 
-
-
+| ID | Challenge | Solution Script |
+|:------:|------------|:---------:|
+| 5 | []() | [Solution](01_SCRIPTS)
 
 ### Solution Notebooks
 

@@ -101,7 +101,13 @@ In the below table, the columns indicate the following attributes related to the
 | 2 | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | [Solution](01_SCRIPTS/27_medium_twitter_tweets_rolling_averages.sql)
 | 3 | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](01_SCRIPTS/28_medium_google_odd_and_even_measurements.sql)
 | 4 | [Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs) | [Solution](01_SCRIPTS/29_medium_walmart_frequently_purchased_pairs.sql)
-| 5 | []() | [Solution](01_SCRIPTS)
+| 5 | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](01_SCRIPTS/30_medium_amazon_highest_grossing_items.sql)
+| 6 | [First Transaction](https://datalemur.com/questions/sql-first-transaction) | [Solution](01_SCRIPTS/31_medium_etsy_first_transaction.sql)
+| 7 | [LinkedIn Power Creators (Part 2)](https://datalemur.com/questions/linkedin-power-creators-part2) | [Solution](01_SCRIPTS/32_medium_linkedin_linkedin_power_creators_part_2_.sql)
+| 8 | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank) | [Solution](01_SCRIPTS/33_medium_spotify_top_5_artists.sql)
+| 9 | [Signup Confirmation Rate](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](01_SCRIPTS/34_medium_tiktok_signup_confirmation_rate.sql)
+| 10 | []() | [Solution](01_SCRIPTS)
+
 #### Difficulty Level : Difficult
 
 | ID | Challenge | Solution Script |
@@ -122,7 +128,7 @@ If you have any doubts, queries or, suggestions then, please connect with me in 
 
 [![Linkedin Badge][linkedinbadge]][linkedin] [![Twitter Badge][twitterbadge]][twitter]
 
-If you like my work then, you may [Buy me a coffee][buy_me_a_coffee]:
+If you like my work then, you may [Buy me a coffee][buy_me_a_coffee]
 
 <a href="https://www.buymeacoffee.com/quantumudit" target="_blank">
 <img src="https://i.ibb.co/9cyrq6m/buy-me-a-coffee.png" alt="buy-me-a-coffee" border="0" width="170" height="50">

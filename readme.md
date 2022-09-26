@@ -53,6 +53,8 @@ The solutions are provided in the following formats:
 
 The **Solution Notebooks** and one stop shop for the SQL challenges of distinct difficulty level whereas the **Solution Scripts** are nothing but, individual SQL solution queries for individual problem.
 
+> The difficulty group tagging of a question might change in future by the author of website however, that doesn't affect the solution anyway as the question still remains the same.
+
 > The two different formats are made for ease of accessibility purpose only. The overall contents of **Solution Notebooks** and **Solution Scripts** are same.
 
 ### Solution Scripts
@@ -144,7 +146,7 @@ If you like my work then, you may [Buy me a coffee][buy_me_a_coffee]
 <img src="https://i.ibb.co/9cyrq6m/buy-me-a-coffee.png" alt="buy-me-a-coffee" border="0" width="170" height="50">
 </a>
 
-Get access to bonus content and exclusive prizes for both of us by signing-up, followed by email verification using this [link][website_link]:
+Get access to bonus content and exclusive prizes for both of us by signing-up, followed by email verification using this [link][website_link]
 
 <a href="https://datalemur.com?referralCode=hRH4ho3l" target="_blank">
 <img src="03_RESOURCES/referral-code.png" alt="datalemur-referral-link" border="0" width="350" height="80">

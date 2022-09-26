@@ -2,7 +2,7 @@
 
 ---
 
-<h4 align="center">Solutions for <a href="" target="_blank">SQL</a> Challenges hosted on <a href="https://datalemur.com/" target="_blank">DataLemur</a> </h4>
+<h4 align="center">Solutions for <a href="" target="_blank">SQL</a> Challenges hosted on <a href="https://datalemur.com?referralCode=hRH4ho3l" target="_blank">DataLemur</a> </h4>
 
 <p align='center'>
 <img src="https://i.ibb.co/KxfMMsP/built-with-love.png" alt="built-with-love" border="0">
@@ -112,14 +112,17 @@ In the below table, the columns indicate the following attributes related to the
 | 13 | [User Session Activity](https://datalemur.com/questions/sql-session-activity) | [Solution](01_SCRIPTS/Medium/13_medium_twitter_user_session_activity.sql)
 | 14 | [Invalid Search Results](https://datalemur.com/questions/invalid-search-pct) | [Solution](01_SCRIPTS/Medium/14_medium_google_invalid_search_results.sql)
 | 15 | [Top Rated Businesses](https://datalemur.com/questions/sql-top-businesses) | [Solution](01_SCRIPTS/Medium/15_medium_yelp_top_rated_businesses.sql)
-| 16 | []() | [Solution](01_SCRIPTS/Medium/)
-
+| 16 | [Same Week Purchases](https://datalemur.com/questions/same-week-purchases) | [Solution](01_SCRIPTS/Medium/16_medium_etsy_same_week_purchases.sql)
 
 #### Difficulty Level : Hard
 
 | ID | Challenge | Solution Script |
 |:------:|------------|:---------:|
-| 5 | []() | [Solution](01_SCRIPTS)
+| 01 | [Active User Retention](https://datalemur.com/questions/user-retention) | [Solution](01_SCRIPTS/Hard/01_hard_facebook_active_user_retention.sql)
+| 02 | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate) | [Solution](01_SCRIPTS/Hard/02_hard_wayfair_yoy_growth_rate.sql)
+| 03 | [User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree) | [Solution](01_SCRIPTS/Hard/03_hard_amazon_user_shopping_sprees.sql)
+| 04 | [Monthly Merchant Balance](https://datalemur.com/questions/sql-monthly-merchant-balance) | [Solution](01_SCRIPTS/Hard/04_hard_visa_monthly_merchant_balance.sql)
+| 05 | []() | [Solution](01_SCRIPTS/Hard)
 
 ### Solution Notebooks
 
@@ -141,6 +144,13 @@ If you like my work then, you may [Buy me a coffee][buy_me_a_coffee]
 <img src="https://i.ibb.co/9cyrq6m/buy-me-a-coffee.png" alt="buy-me-a-coffee" border="0" width="170" height="50">
 </a>
 
+Get access to bonus content and exclusive prizes for both of us by signing-up, followed by email verification using this [link][website_link]:
+
+<a href="https://datalemur.com?referralCode=hRH4ho3l" target="_blank">
+<img src="03_RESOURCES/referral-code.png" alt="datalemur-referral-link" border="0" width="350" height="80">
+</a>
+
+
 ## License
 
 <a href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/' target="_blank">
@@ -155,7 +165,7 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 
 <!-- External Links -->
 
-[website_link]: https://datalemur.com/
+[website_link]: https://datalemur.com?referralCode=hRH4ho3l
 
 <!-- Profile Links -->
 

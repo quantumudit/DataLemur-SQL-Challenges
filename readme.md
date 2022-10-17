@@ -94,6 +94,9 @@ In the below table, the columns indicate the following attributes related to the
 | 23 | [Unique Money Transfer Relationships](https://datalemur.com/questions/money-transfer-relationships) | [Solution](01_SCRIPTS/Easy/23_easy_paypal_unique_money_transfer_relationships.sql)
 | 24 | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas) | [Solution](01_SCRIPTS/Easy/24_easy_google_ad_campaign_roas.sql)
 | 25 | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](01_SCRIPTS/Easy/25_easy_tiktok_second_day_confirmation.sql)
+| 26 | [Apple Pay Volume](https://datalemur.com/questions/apple-pay-volume) | [Solution](01_SCRIPTS/Easy/26_easy_visa_apple_pay_volume.sql)
+| 27 | [Average Deal Size (Part 1)](https://datalemur.com/questions/sql-average-deal-size) | [Solution](01_SCRIPTS/Easy/27_easy_salesforce_average_deal_size_part_1.sql)
+
 
 #### Difficulty Level : Medium
 
@@ -124,7 +127,9 @@ In the below table, the columns indicate the following attributes related to the
 | 02 | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate) | [Solution](01_SCRIPTS/Hard/02_hard_wayfair_yoy_growth_rate.sql)
 | 03 | [User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree) | [Solution](01_SCRIPTS/Hard/03_hard_amazon_user_shopping_sprees.sql)
 | 04 | [Monthly Merchant Balance](https://datalemur.com/questions/sql-monthly-merchant-balance) | [Solution](01_SCRIPTS/Hard/04_hard_visa_monthly_merchant_balance.sql)
-| 05 | []() | [Solution](01_SCRIPTS/Hard)
+| 05 | [Bad Delivery Rate](https://datalemur.com/questions/sql-bad-experience) | [Solution](01_SCRIPTS/Hard/05_hard_doordash_bad_delivery_rate.sql)
+| 06 | []() | [Solution](01_SCRIPTS/Hard)
+
 
 ### Solution Notebooks
 
